@@ -1,6 +1,6 @@
 # CIS6050
 
-Repository for CIS 6050 Neural Network Course. 
+Repository for CIS 6050 Neural Network Course Project. 
 
 Raw data can be found at https://forexdatabucket.s3.us-east-2.amazonaws.com/Forex+Data.zip.
 
