@@ -8,5 +8,3 @@ Run the following notebooks in order (while changing to appropriate PATH) to ext
 
 Recursive Unzip.ipynb  
 Extract Files to Folder.ipynb
-
-A script for this will be available following project completion.
